@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://shopticket.mysql.database.azure.com:3306/shopticket?useSSL=true
+    url: jdbc:mysql://shopticket.mysql.database.azure.com:3306/shopticketdb?useSSL=true
     username: martina
     password: Casola7.
   jpa:
