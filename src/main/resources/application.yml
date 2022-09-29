@@ -14,7 +14,7 @@ server:
 
 
 azure:
-  keyvault:
+  key-vault:
     enabled: true
     uri: https://shopticket.vault.azure.net/
     client-id: 35b9a723-7f30-4c1c-8a0d-15b6a0300554
