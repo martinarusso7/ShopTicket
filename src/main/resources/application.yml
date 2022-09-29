@@ -18,4 +18,5 @@ azure:
     enabled: true
     uri: https://shopticket.vault.azure.net/
     client-id: 35b9a723-7f30-4c1c-8a0d-15b6a0300554
+    ##client-key: V.q~NOT7o.KH5A4n2G9fbO3Rl4K~yTvx-z
     tenant-id: 2fcfe26a-bb62-46b0-b1e3-28f9da0c45fd
